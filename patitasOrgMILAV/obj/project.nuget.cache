@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "y1kQJGJ8Hr0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gsp30\\Desktop\\Fundamentos de BD\\patitasOrgMILAV\\patitasOrgMILAV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gsp30\\.nuget\\packages\\confluent.kafka\\2.6.1\\confluent.kafka.2.6.1.nupkg.sha512",
+    "C:\\Users\\gsp30\\.nuget\\packages\\librdkafka.redist\\2.6.1\\librdkafka.redist.2.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
